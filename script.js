@@ -24,7 +24,7 @@ const translations = {
     madeByPre: "صُنع بـ",
     ctaGithub: "عرض على GitHub",
     ctaChrome: "تثبيت على Chrome",
-    ctaDownload: "تحميل مباشر",
+    ctaDownload: " تثبيت مباشر",
     badgeNew: "جديد",
     badgeUpdate: "تحديث",
     starLabel: "Star",
