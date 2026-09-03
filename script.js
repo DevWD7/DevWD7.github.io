@@ -97,7 +97,7 @@ const terminalCommand = "latest";
 const terminalItems = [
   { name: "WDSteamFX v1.1.0", tag: "UPDATE" },
   { name: "WDSteamTranslate-AR", tag: "NEW" },
-  { name: "WDSteam-Reviews-Translator v1.0.1 ", tag: "UPDATE" }
+  { name: "WDSteam-Reviews-Translator v1.1.1 ", tag: "UPDATE" }
 ];
 
 const heroPills = [
