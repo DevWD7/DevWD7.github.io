@@ -42,7 +42,7 @@ const translations = {
     toolsLabel: "Tools",
     madeByPre: "Made with",
     ctaGithub: "View on GitHub",
-    ctaChrome: "Install on Chrome",
+    ctaChrome: "Add to Chrome",
     ctaDownload: "Direct Download",
     badgeNew: "New",
     badgeUpdate: "Updated",
