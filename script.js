@@ -43,7 +43,7 @@ const translations = {
     madeByPre: "Made with",
     ctaGithub: "View on GitHub",
     ctaChrome: "Add to Chrome",
-    ctaDownload: "Direct Download",
+    ctaDownload: "Download exe",
     badgeNew: "New",
     badgeUpdate: "Updated",
     starLabel: "Star",
