@@ -139,7 +139,7 @@ const socialLinks = [
   { icon: "kofi", tone: "kofi", href: "https://ko-fi.com/wdox_", label: "Ko-fi" }
 ];
 
-let currentLang = "ar";
+let currentLang = "en";
 
 function t(key){
   return translations[currentLang][key];
