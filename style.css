@@ -527,9 +527,9 @@ body[dir="ltr"] .hero-pills li.has-icon{flex-direction:row-reverse}
 
 .tool-link span{
   min-width:0;
-  white-space:normal;
-  text-align:center;
-  line-height:1.2;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
 }
 
 .tool-link svg{width:17px;height:17px;flex-shrink:0}
